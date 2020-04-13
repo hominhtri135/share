@@ -28,3 +28,9 @@ ocsp.usertrust.com
 ocsp.trust-provider.com
 xp.apple.com
 gdmf.apple.com
+www.gdmf.apple.com
+iadsdk.apple.com
+googletagservices.com
+alogs.umengcloud.com
+uop.umeng.com
+alogs.umeng.com
